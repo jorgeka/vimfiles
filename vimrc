@@ -49,10 +49,10 @@ let mapleader=","
 
 " Prevent Vim from clearing the scrollback buffer
 " http://www.shallowsky.com/linux/noaltscreen.html
-set t_ti= t_te=
+" set t_ti= t_te=
 
 " Clear PAGER if Vim's Man function is needed
-let $PAGER=''
+" let $PAGER=''
 
 " =============================================================================
 " Editing
